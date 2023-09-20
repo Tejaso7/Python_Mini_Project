@@ -9,15 +9,15 @@
 <!-- Badges (Optional) -->
 <p align="center">
   <a href="https://github.com/Tejaso7/awesome-python-project/stargazers">
-    <img src="https://img.shields.io/github/stars/yourusername/awesome-python-project.svg?style=for-the-badge&color=yellow"
+    <img src="https://img.shields.io/github/stars/Tejaso7/Small_Project?style=for-the-badge&color=yellow"
       alt="Stars">
   </a>
   <a href="https://github.com/Tejaso7/awesome-python-project/issues">
-    <img src="https://img.shields.io/github/issues/yourusername/awesome-python-project.svg?style=for-the-badge&color=blue"
+    <img src="https://img.shields.io/github/issues/Tejaso7/Small_Project?style=for-the-badge&color=blue"
       alt="Issues">
   </a>
   <a href="https://github.com/Tejaso7/awesome-python-project/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/yourusername/awesome-python-project.svg?style=for-the-badge&color=green"
+    <img src="https://img.shields.io/github/license/Tejaso7/Small_Project?style=for-the-badge&color=green"
       alt="License">
   </a>
 </p>
