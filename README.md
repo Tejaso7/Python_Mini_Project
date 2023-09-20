@@ -22,17 +22,6 @@
   </a>
 </p>
 
-<!-- Table of Contents -->
-## Table of Contents
-
-- [About the Project](#about-the-project)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 <!-- About the Project -->
 ## About the Project
@@ -42,7 +31,7 @@ i have done this projects when i was learning python in my  Certification course
 <!-- Getting Started -->
 ## Getting Started
 
-as follows 
+As follows 
 
 ### Prerequisites
 
