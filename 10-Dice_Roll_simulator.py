@@ -1,5 +1,7 @@
 # importing module for random number generation
 import random
+#this is code asked by many of the companys
+
 
 # range of the values of a dice
 min_val = 1
